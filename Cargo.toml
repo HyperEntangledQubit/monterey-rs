@@ -1,7 +1,8 @@
 [package]
 authors = ["HyperEntangledQubit <25336193+HyperEntangledQubit@users.noreply.github.com>"]
 build = "build.rs"
-categories = ["Rust bindings to macOS Monterey"]
+categories = ["os::macos-apis"]
+description = "Rust bindings to macOS Monterey"
 license = "MIT License"
 name = "monterey-rs"
 readme = "./README.md"
